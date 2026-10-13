@@ -1,0 +1,8 @@
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\bin\Debug\Caso_empleado.exe.config
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\bin\Debug\Caso_empleado.exe
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\bin\Debug\Caso_empleado.pdb
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\obj\Debug\Caso_empleado.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\obj\Debug\Caso_empleado.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\obj\Debug\Caso_empleado.exe
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\obj\Debug\Caso_empleado.pdb
+C:\Users\UPN\Downloads\SEMANA9\Caso_empleado\obj\Debug\Caso_empleado.exe.config
